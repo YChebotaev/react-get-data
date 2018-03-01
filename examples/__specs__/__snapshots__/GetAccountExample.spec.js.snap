@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GetAccountExample> should display account 1`] = `
+<div
+  className="account"
+/>
+`;
+
+exports[`<GetAccountExample> should display error 1`] = `
+<div
+  className="error"
+>
+  Broken account
+</div>
+`;
+
+exports[`<GetAccountExample> should render spinner 1`] = `
+<div
+  className="spinner"
+/>
+`;
