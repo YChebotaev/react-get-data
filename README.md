@@ -1,4 +1,4 @@
-# React get data [![GitHub license](https://img.shields.io/github/license/ychebotaev/react-get-data.svg)] [![Npm version])(https://img.shields.io/npm/v/react-get-data.svg)]
+# React get data [![GitHub license](https://img.shields.io/github/license/ychebotaev/react-get-data.svg)] [![Npm version](https://img.shields.io/npm/v/react-get-data.svg)]
 
 A small react wrapper for fetching data from remote services.
 
